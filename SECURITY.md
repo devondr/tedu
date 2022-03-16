@@ -5,9 +5,16 @@
 Use this section to tell people about which versions of your project are
 currently being supported with security updates.
 
+### Dev versions
+
 | Version | Supported          |
 | ------- | ------------------ |
-| 22w11a  | :x:                |
+| 22w11a  | ❌                 |
+
+
+### Release versions
+
+No releases at this moment.
 
 ## Reporting a Vulnerability
 
